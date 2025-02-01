@@ -20,8 +20,8 @@
             <li>Teaspresso · Tea Frappé</li>
         </ol>
         <img src="ChageeLogo.webp" alt="ChageeLogo" style="max-width: 100%; height: auto;">
-        <img src="C1.PNG" alt="JASMINE GREEN MILK TEA" style="max-width: 100%; height: auto;">
-        <img src="C2.PNG" alt="WHITE PEACH OOLONG MILK TEA" style="max-width: 100%; height: auto;">
+        <img src="C1.png" alt="JASMINE GREEN MILK TEA" style="max-width: 100%; height: auto;">
+        <img src="C2.png" alt="WHITE PEACH OOLONG MILK TEA" style="max-width: 100%; height: auto;">
     </main>
     <footer>CW</footer>
 </body>
