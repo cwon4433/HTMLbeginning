@@ -9,7 +9,7 @@
 <body>
     <main>
         <h1>CHARGEE</h1>
-        <p>A milktea shop that is popular in China called CHARGEE. <br>Learn more about the brand <a href="https://en.wikipedia.org/wiki/Chagee" target="_blank">here</a> or <a href="https://chagee.com.my/" target="_blank">here</a></br> </p>
+        <p>A milktea shop that is popular in China called CHARGEE. <br>Learn more about the brand <a href="https://en.wikipedia.org/wiki/Chagee" target="_blank">here</a> or <a href="https://chagee.com.my/" target="_blank">here</a></br> Personally favorite is the jasmine green milk tea. </p>
         <ol>
             <li>Milk Tea Series</li>
             <li>Snowy Frappé Series</li>
